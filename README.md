@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8pah0d423rodbefu?svg=true)](https://ci.appveyor.com/project/raptor-vrn/ajs-hometask-7-class)
